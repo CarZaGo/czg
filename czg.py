@@ -1,10 +1,10 @@
 #!/bin/env python2
-# Script owner="CarZaGo"
-# Created on date 01/01/2009
-# Modified on date 19/03/2019
-# Whats app number +51 958 014 206 
+# Script owner="sachin"
+# Created on date 27/10/2018
+# Modified on date 1/11/2018
+# Whats app number 8105190452 
 # if u get any bugs send to this number
-# i am studying 10th year informática
+# i am studying 4th year civil
 #
 
 import os
