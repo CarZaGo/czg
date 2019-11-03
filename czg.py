@@ -103,12 +103,14 @@ else:
 
 logo2 = '''
 Coded by Sachin
+
 \t   |  |-------    __     _____  
 \t   |  |       |  /  \   |       |   \033[1;39m VERSION : \033[1;32m1.4\033[1;39m
 \t\033[1;36m   |  |       | |    |  |_____  |   \033[1;32m JOOMLA EXPLOIT\033[1;36m
 \t   |  |       | |    |        | |_____
 \t   |  |       | |    |        | |     |
 \t|__/  |-------   \__/ \ ______| |     |
+
 '''
 print logo2
 print "\033[1;31mDork :\033[1;39m inurl:index.php/component/fabrik/ site:\033[1;39m"
