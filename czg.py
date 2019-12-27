@@ -102,7 +102,7 @@ else:
 
 
 logo2 = '''
-Coded by Sachin
+Coded by CarZaGo
 
 \t   |  |-------    __     _____  
 \t   |  |       |  /  \   |       |   \033[1;39m VERSION : \033[1;32m1.4\033[1;39m
