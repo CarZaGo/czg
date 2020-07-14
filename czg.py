@@ -149,9 +149,9 @@ while True:
 		scanner()
 	 elif coder[0] == "about":
 		print '\033[1;39m'
-		print '\t Name   : CarZaGo'
-		print '\t Country: Peru'
-		print '\t Channel: CarZaGo'
+		print '\t Name   : Sachin'
+		print '\t Country: India'
+		print '\t Channel: BBSAD'
 		print '\t Link   : https://www.youtube.com/user/llCarZaGoll'
 		print '\t'
 
